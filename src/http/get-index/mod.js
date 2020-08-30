@@ -23,7 +23,7 @@ export async function handler (/*req: object*/) {
        */
       email: 'your@email.com',
       twitter: 'yourTwitter',
-      linkedin: 'your-linkedin-name',
+      linkedin: 'your-lin    kedin-name',
       instagram: 'yourInsta',
       facebook: 'your-facebook-name',
 
